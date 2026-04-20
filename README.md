@@ -28,7 +28,7 @@ I build scalable mobile applications and develop machine learning models to solv
 ### 🔹 Machine Learning Project
 
 * **[Expense tracker with predictions]**
-  A machine learning model built to [problem it solves].
+  A machine learning model built to [Track daily Expences and Predict suggestions].
   **Tech:** Python, Scikit-learn
 
 ### 🔹 Full-Stack Project
@@ -47,9 +47,9 @@ I build scalable mobile applications and develop machine learning models to solv
 
 ## 📫 Connect With Me
 
-* 📧 Email: [your@email.com](rizwan931041@gmail.com)
-* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-rizwan-a823b5313/)
-* 🌐 Portfolio:[ https://yourwebsite.com](https://portfolio-website-kohl-seven-37.vercel.app/)
+* 📧 Email: (rizwan931041@gmail.com)
+* 💼 LinkedIn: (https://www.linkedin.com/in/muhammad-rizwan-a823b5313/)
+* 🌐 Portfolio:(https://portfolio-website-kohl-seven-37.vercel.app/)
 
 ---
 
