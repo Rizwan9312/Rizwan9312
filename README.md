@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-                          ██████╗ ██╗███████╗██╗    ██╗ █████╗ ███╗   ██╗
-                          ██╔══██╗██║╚══███╔╝██║    ██║██╔══██╗████╗  ██║
-                          ██████╔╝██║  ███╔╝ ██║ █╗ ██║███████║██╔██╗ ██║
-                          ██╔══██╗██║ ███╔╝  ██║███╗██║██╔══██║██║╚██╗██║
-                          ██║  ██║██║███████╗╚███╔███╔╝██║  ██║██║ ╚████║
-                          ╚═╝  ╚═╝╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+██████╗ ██╗███████╗██╗    ██╗ █████╗ ███╗   ██╗
+██╔══██╗██║╚══███╔╝██║    ██║██╔══██╗████╗  ██║
+██████╔╝██║  ███╔╝ ██║ █╗ ██║███████║██╔██╗ ██║
+██╔══██╗██║ ███╔╝  ██║███╗██║██╔══██║██║╚██╗██║
+██║  ██║██║███████╗╚███╔███╔╝██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 <h2>Muhammad Rizwan</h2>
@@ -34,13 +34,28 @@
 
 <h2 align="center">◈ &nbsp; IDENTITY &nbsp; ◈</h2>
 
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
 ```yaml
 name        : Muhammad Rizwan
 role        : Full-Stack Mobile Developer & ML Practitioner
 location    : Pakistan 🇵🇰
 focus       : "Shipping clean, scalable software that solves real problems"
 philosophy  : "Code is communication — write it for humans first, machines second"
+```
 
+</td>
+</tr>
+<tr>
+<td>
+
+```yaml
 currently_building:
   ▸ Production-grade React Native applications
   ▸ ML-powered features for real-world products
@@ -51,6 +66,12 @@ open_to:
   ▸ Remote Collaborations
   ▸ Full-Time Roles
 ```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -187,16 +208,16 @@ A smart expense management app that doesn't just track — it thinks. The embedd
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rizwan9312&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FF4500&icon_color=FF4500&text_color=FFFFFF&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizwan9312&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF4500&text_color=FFFFFF&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rizwan9312&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FF4500&icon_color=FF4500&text_color=FFFFFF&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rizwan9312&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF4500&text_color=FFFFFF&langs_count=8"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Rizwan9312&theme=radical&hide_border=true&background=0D0D0D&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=FFFFFF&dates=AAAAAA"/>
+<img width="70%" src="https://github-readme-streak-stats-eight.vercel.app?user=Rizwan9312&theme=radical&hide_border=true&background=0D0D0D&ring=FF4500&fire=FF4500&currStreakLabel=FF4500&sideLabels=FFFFFF&dates=AAAAAA"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rizwan9312&theme=redical&bg_color=0D0D0D&color=FF4500&line=FF4500&point=FFFFFF&hide_border=true"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rizwan9312&bg_color=0D0D0D&color=FF4500&line=FF4500&point=FFFFFF&area=true&area_color=FF4500&hide_border=true&custom_title=Contribution%20Activity%20—%20Last%2031%20Days)](https://github.com/Rizwan9312)
 
 </div>
 
