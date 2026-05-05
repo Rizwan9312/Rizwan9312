@@ -1,25 +1,25 @@
 <div align="center">
 
 ```
-██████╗ ██╗███████╗██╗    ██╗ █████╗ ███╗   ██╗
-██╔══██╗██║╚══███╔╝██║    ██║██╔══██╗████╗  ██║
-██████╔╝██║  ███╔╝ ██║ █╗ ██║███████║██╔██╗ ██║
-██╔══██╗██║ ███╔╝  ██║███╗██║██╔══██║██║╚██╗██║
-██║  ██║██║███████╗╚███╔███╔╝██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+          ██████╗ ██╗███████╗██╗    ██╗ █████╗ ███╗   ██╗
+          ██╔══██╗██║╚══███╔╝██║    ██║██╔══██╗████╗  ██║
+          ██████╔╝██║  ███╔╝ ██║ █╗ ██║███████║██╔██╗ ██║
+          ██╔══██╗██║ ███╔╝  ██║███╗██║██╔══██║██║╚██╗██║
+          ██║  ██║██║███████╗╚███╔███╔╝██║  ██║██║ ╚████║
+          ╚═╝  ╚═╝╚═╝╚══════╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 <h2>Muhammad Rizwan</h2>
 <p><b>Full-Stack Mobile Engineer &nbsp;·&nbsp; Machine Learning Practitioner</b></p>
 
-<a href="mailto:r@email.com">
+<a href="mailto:rizwan931041@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>&nbsp;
-<a href="https://linkedin.com">
+<a href="[https://linkedin.com](https://www.linkedin.com/in/muhammad-rizwan-a823b5313/)">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
 <a href="https://portfolio.dev">
-  <img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+  <img src="[https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefoxbrowser&logoColor=white"](https://portfolio-website-kohl-seven-37.vercel.app/)/>
 </a>
 
 <br/><br/>
